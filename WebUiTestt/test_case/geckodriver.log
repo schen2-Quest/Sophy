@@ -1,0 +1,86 @@
+1527835241637	geckodriver	INFO	geckodriver 0.20.1
+1527835241653	geckodriver	INFO	Listening on 127.0.0.1:64150
+1527835244789	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lwang3\\AppData\\Local\\Temp\\rust_mozprofile.zeCv53GmiA1R"
+Unable to read VR Path Registry from C:\Users\lwang3\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\lwang3\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\lwang3\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\lwang3\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\lwang3\AppData\Local\openvr\openvrpaths.vrpath
+1527835249372	Marionette	INFO	Listening on port 64162
+1527835250015	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.154.10.38/bundles/jquery?v=GQ4ZewMQUDOfiDOMb0t6LF-bfbUIOcE4vUe90E4fGMg1, line 18: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 1300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child [Parent 18156, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 13788, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1527835305948	geckodriver	INFO	geckodriver 0.20.1
+1527835305960	geckodriver	INFO	Listening on 127.0.0.1:64262
+1527835309014	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lwang3\\AppData\\Local\\Temp\\rust_mozprofile.vc2aJa5F2lET"
+Unable to read VR Path Registry from C:\Users\lwang3\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\lwang3\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\lwang3\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\lwang3\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\lwang3\AppData\Local\openvr\openvrpaths.vrpath
+1527835312051	Marionette	INFO	Listening on port 64273
+1527835312349	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.154.10.38/bundles/jquery?v=GQ4ZewMQUDOfiDOMb0t6LF-bfbUIOcE4vUe90E4fGMg1, line 18: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://10.154.10.38/bundles/jquery?v=GQ4ZewMQUDOfiDOMb0t6LF-bfbUIOcE4vUe90E4fGMg1, line 18: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://10.154.10.38/bundles/home?v=47bwWYl464pThLTOaA6fIHQWMVFoQxFLE6nbEho92ZA1, line 1478: unreachable code after return statement
+JavaScript warning: http://10.154.10.38/bundles/jquery?v=GQ4ZewMQUDOfiDOMb0t6LF-bfbUIOcE4vUe90E4fGMg1, line 18: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 18888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[ChilJavaScript error: http://10.154.10.38/bundles/tic?v=wXr_RZa2xXgShqLKjAlQEGa1QSZXnPRFdOfhumFzE6U1, line 999: TypeError: l.transport is null
+[Parent 7908, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7908, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1527835524930	geckodriver	INFO	geckodriver 0.20.1
+1527835524943	geckodriver	INFO	Listening on 127.0.0.1:64540
+1527835528003	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lwang3\\AppData\\Local\\Temp\\rust_mozprofile.z8Po1ygEHKrk"
+Unable to read VR Path Registry from C:\Users\lwang3\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\lwang3\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\lwang3\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\lwang3\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\lwang3\AppData\Local\openvr\openvrpaths.vrpath
+1527835531131	Marionette	INFO	Listening on port 64550
+1527835531623	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.154.10.38/bundles/jquery?v=GQ4ZewMQUDOfiDOMb0t6LF-bfbUIOcE4vUe90E4fGMg1, line 18: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://10.154.10.38/bundles/jquery?v=GQ4ZewMQUDOfiDOMb0t6LF-bfbUIOcE4vUe90E4fGMg1, line 18: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://10.154.10.38/bundles/home?v=47bwWYl464pThLTOaA6fIHQWMVFoQxFLE6nbEho92ZA1, line 1478: unreachable code after return statement
+[Child 14836, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1JavaScript error: http://10.154.10.38/bundles/tic?v=wXr_RZa2xXgShqLKjAlQEGa1QSZXnPRFdOfhumFzE6U1, line 999: TypeError: l.transport is null
+[Parent 17952, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 142[Parent 17952, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 10084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1527835543012	geckodriver	INFO	geckodriver 0.20.1
+1527835543025	geckodriver	INFO	Listening on 127.0.0.1:64613
+1527835546072	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lwang3\\AppData\\Local\\Temp\\rust_mozprofile.qFdD0fuOw6JQ"
+Unable to read VR Path Registry from C:\Users\lwang3\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\lwang3\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\lwang3\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\lwang3\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\lwang3\AppData\Local\openvr\openvrpaths.vrpath
+1527835548898	Marionette	INFO	Listening on port 64625
+1527835549198	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.154.10.38/bundles/jquery?v=GQ4ZewMQUDOfiDOMb0t6LF-bfbUIOcE4vUe90E4fGMg1, line 18: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://10.154.10.38/bundles/jquery?v=GQ4ZewMQUDOfiDOMb0t6LF-bfbUIOcE4vUe90E4fGMg1, line 18: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://10.154.10.38/bundles/home?v=47bwWYl464pThLTOaA6fIHQWMVFoQxFLE6nbEho92ZA1, line 1478: unreachable code after return statement
+JavaScript warning: http://10.154.10.38/bundles/jquery?v=GQ4ZewMQUDOfiDOMb0t6LF-bfbUIOcE4vUe90E4fGMg1, line 18: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 20604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[ChildJavaScript error: http://10.154.10.38/bundles/tic?v=wXr_RZa2xXgShqLKjAlQEGa1QSZXnPRFdOfhumFzE6U1, line 999: TypeError: l.transport is null
+[Parent 17832, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 13832, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

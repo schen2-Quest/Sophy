@@ -1,0 +1,4 @@
+[
+  "test_case/login_sta.py::LoginTest::test_register_new_user",
+  "test_case/login_sta.py::LoginTest::test_sign_exist_account"
+]
